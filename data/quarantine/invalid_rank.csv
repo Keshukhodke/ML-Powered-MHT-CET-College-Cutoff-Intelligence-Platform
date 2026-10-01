@@ -1,0 +1,9 @@
+academic_year,cap_round,source_file,college_code,college_name,branch_code,branch_name,category,seat_section,merit_rank,percentile,record_id,is_exact_duplicate,is_potential_duplicate,category_status,data_quality_status
+2025-2026,CAP4,FE_CAP4_2025_Cutoff.csv,1005,"Sant Gadge Baba Amravati University,Amravati",100552410.0,Paper and Pulp Technology,LSTH,Minority,0,30.5397513,1b93bb4b2019,False,False,VALID,CHECK_RANK
+2025-2026,CAP4,FE_CAP4_2025_Cutoff.csv,1125,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshi Shahu College of Engineering, Buldhana",112519110.0,Civil Engineering,DEFOBCS,Minority,0,47.1398578,7f00363159e6,False,False,VALID,CHECK_RANK
+2025-2026,CAP4,FE_CAP4_2025_Cutoff.csv,3726,Imperial College of Engineering,372624510.0,Computer Engineering,GSEBCO,Minority,0,12.7652105,da8bec0cfac2,False,False,VALID,CHECK_RANK
+2025-2026,CAP4,FE_CAP4_2025_Cutoff.csv,5408,"Vidya Niketan College of Engineering, Bota Sangamner",540824510.0,Computer Engineering,LSCH,Minority,0,13.0456765,a41c32a5d46d,False,False,VALID,CHECK_RANK
+2025-2026,CAP4,FE_CAP4_2025_Cutoff.csv,6628,"Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",662884410.0,Electronics and Computer Engineering,ORPHAN,Minority,0,82.1319232,b809daec3cca,False,False,VALID,CHECK_RANK
+2025-2026,CAP4,FE_CAP4_2025_Cutoff.csv,6815,"Vidya Prasarini Sabha's College of Engineering & Technology, Lonavala",681519110.0,Civil Engineering,LOBCH,Minority,0,38.4895018,d4f28549a722,False,False,VALID,CHECK_RANK
+2026-2027,CAP4,FE_CAP4_2026_Cutoff_List.csv,2666,Mangaldeep College of Engineering,266656610.0,Computer Science,LOBCH,Minority,0,31.6424805,41d48b2875aa,False,False,VALID,CHECK_RANK
+2026-2027,CAP4,FE_CAP4_2026_Cutoff_List.csv,6878,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur",687824210.0,Computer Science and Engineering,ORPHANN,Minority,0,74.1899324,ce7a9ab86f2d,False,False,VALID,CHECK_RANK

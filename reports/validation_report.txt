@@ -1,0 +1,71 @@
+MASTER DATA QUALITY REPORT
+
+==================================================
+
+1. Dataset Overview
+   Total initial records (after raw extraction): 405080
+
+2. Year Coverage
+   academic_year
+   2026-2027    176926
+   2025-2026    166672
+   2024-2025     26781
+   2023-2024     18724
+   2022-2023     15977
+
+3. CAP Round Coverage
+   cap_round
+   CAP2    111511
+   CAP3    103907
+   CAP1     97338
+   CAP4     92324
+
+4. Exact Duplicate Check
+   Found and removed 0 exact duplicate rows.
+
+5. Potential Duplicate Groups
+   2191 records are in potential duplicate groups based on business keys.
+
+6. College Code Validation
+   Missing college codes: 0
+
+7. Branch Code Validation
+   Missing branch codes (after mapping): 0
+
+8. Category Validation
+   category_status
+   VALID           384164
+   RECOVERED        12996
+   INVALID_TEXT      7920
+
+9. Seat Section Validation
+   Missing seat sections: 0
+
+10. Merit Rank Validation
+    Ranks <= 0: 8
+    Missing Ranks: 0
+
+11. Percentile Validation
+    Missing Percentile: 0
+    Invalid Percentiles (not 0-100): 0
+
+12. Missing Value Analysis
+    Overall missing values per column:
+
+13. Source File Validation
+    Unique source files identified: 17
+
+14. Quarantine Records
+    Total quarantined: 7928
+
+    CHECK_CATEGORY: 7920
+    CHECK_RANK: 8
+
+15. Provisional Clean Record Count
+    397152
+
+16. Data Resolution Required
+    - rank = 0 records (8 records, safe to ignore)
+
+17. ML Readiness
+    READY — Dataset is highly robust and ready for machine learning.
